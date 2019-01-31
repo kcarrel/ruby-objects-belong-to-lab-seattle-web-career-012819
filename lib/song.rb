@@ -10,4 +10,9 @@ class Song
   def self.title 
     @title
   end 
+  
+  def self.artist
+    @artist
+  end 
+  
 end 
